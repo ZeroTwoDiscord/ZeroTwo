@@ -1,3 +1,2 @@
 # ZeroTwo
-The official repository to discuss feature requests and or report bugs.
- 
+## not used anymore, join our [support server](https://zerotwo.wtf/server) instead
